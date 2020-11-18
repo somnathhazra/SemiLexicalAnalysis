@@ -1,5 +1,6 @@
 
 The [Identification] directory contains codes outlined by the Semi-Lexical Analysis Algorithm.
+To run the algorithm the [mainDriver.py] file needs to be executed.
 Here the weights file is a dummy file.
 Actual weights file has size of 300MB approx.
 It should contain the actual retrained weights of the YOLOv3 network.
