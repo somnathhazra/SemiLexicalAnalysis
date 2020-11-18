@@ -1,4 +1,6 @@
+
 Contains codes outlined by the Semi-Lexical Analysis Algorithm.
-The weights file is a dummy file provide here.
-It should contain the actual retrained weights file with the same name.
-The cfg file and the names file are the ones that were used for our setup.
+Here the weights file is a dummy file.
+Actual weights file has size of 300MB approx.
+It should contain the actual retrained weights of the YOLOv3 network.
+The cfg file and the names file were same for our setup.
