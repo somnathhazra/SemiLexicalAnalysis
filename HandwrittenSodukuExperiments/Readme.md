@@ -11,6 +11,17 @@ Experiments for checking validity of Handwritten Soduku
 
 This repository contains the CNN modules and logical mdules for checking validity of Handwritten Soduku
 
+Models : model_digit.h5 [CNN for mapping tokens]
+        SodokuValidator.h5 [CNN model for predicting whether the Soduku board is valid]
+        
+        
+CNN Soduku Validator.ipynb Notebook for running the experiments
+
+Dependencies
+
+Keras
+Python 3.6
+Numpy
 
 
 
