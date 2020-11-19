@@ -6,7 +6,7 @@ This section perticularly involves retraining of YOLOv3 network (https://arxiv.o
 
 ### Training
 1. Trained on Google Colab
-2. Requires GPU for training (Colab's GPU)
+2. Requires GPU for training
 3. This repository contains the cfg and weights files: https://github.com/AlexeyAB/darknet
 4. The training set was created using https://github.com/tzutalin/labelImg
 
