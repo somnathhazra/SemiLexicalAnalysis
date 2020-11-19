@@ -9,6 +9,8 @@ This section perticularly involves retraining of YOLOv3 network (https://arxiv.o
 2. Requires GPU for training
 3. This repository contains the initial cfg and weights files: https://github.com/AlexeyAB/darknet
 4. The training set was created using https://github.com/tzutalin/labelImg
+5. The cfg file is to be modified according to number of components
+6. The cfg file we had used has been included with this repository
 
 ### Testing
 1. Tested on Ubuntu 18.04 system and CentOS remote server
