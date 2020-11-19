@@ -12,3 +12,5 @@ Experiments for checking validity of Handwritten Soduku
 This repository contains the CNN modules and logical mdules for checking validity of Handwritten Soduku
 
 
+
+
